@@ -1,0 +1,15 @@
+{
+  "name": "pc-monitoring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^29.1.0"
+  }
+}
